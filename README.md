@@ -1,2 +1,2 @@
-# machine-learning-programming
+# Machine Learning
 Machine Learning Programming
